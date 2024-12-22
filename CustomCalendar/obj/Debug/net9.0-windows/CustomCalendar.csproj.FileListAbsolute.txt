@@ -1,0 +1,7 @@
+C:\Users\Wagner\Desktop\CustomCalendar\CustomCalendar\obj\Debug\net9.0-windows\CustomCalendar.g.cs
+C:\Users\Wagner\Desktop\CustomCalendar\CustomCalendar\obj\Debug\net9.0-windows\CustomCalendarDay.g.cs
+C:\Users\Wagner\Desktop\CustomCalendar\CustomCalendar\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Wagner\Desktop\CustomCalendar\CustomCalendar\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Wagner\Desktop\CustomCalendar\CustomCalendar\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wagner\Desktop\CustomCalendar\CustomCalendar\obj\Debug\net9.0-windows\CustomCalendar_MarkupCompile.cache
+C:\Users\Wagner\Desktop\CustomCalendar\CustomCalendar\obj\Debug\net9.0-windows\CustomCalendar_MarkupCompile.lref
